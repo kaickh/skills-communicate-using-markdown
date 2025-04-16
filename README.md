@@ -35,7 +35,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
-<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+<img alt="Image of a cat" src=https://octodex.github.com/images/yaktocat.png width=400>
 
 ### :keyboard: Activity: Adding an image
 
